@@ -1,7 +1,5 @@
 <div align="center">
 
-# Deniz
-
 ### Game Porting Developer. C# and Python.
 
 Porting games to PC. Working across engine internals, input systems, rendering compatibility, and tooling.
@@ -10,12 +8,12 @@ Porting games to PC. Working across engine internals, input systems, rendering c
 
 ---
 
-## What I Do
-
 - Game porting: adapting console and original-platform builds to run natively on PC
 - API compatibility: bridging platform-specific input, audio, and graphics APIs to PC equivalents
 - Performance tuning: profiling and optimizing ported builds for PC hardware
 - Tooling: scripts and internal tools to automate parts of the porting pipeline
+
+<div align="center">
 
 ## Tech Stack
 
@@ -25,3 +23,5 @@ Porting games to PC. Working across engine internals, input systems, rendering c
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
