@@ -8,10 +8,17 @@ Porting games to PC. Working across engine internals, input systems, rendering c
 
 ---
 
-- Game porting: adapting console and original-platform builds to run natively on PC
-- API compatibility: bridging platform-specific input, audio, and graphics APIs to PC equivalents
-- Performance tuning: profiling and optimizing ported builds for PC hardware
-- Tooling: scripts and internal tools to automate parts of the porting pipeline
+<div align="center">
+
+Game porting: adapting console and original-platform builds to run natively on PC
+<br>
+API compatibility: bridging platform-specific input, audio, and graphics APIs to PC equivalents
+<br>
+Performance tuning: profiling and optimizing ported builds for PC hardware
+<br>
+Tooling: scripts and internal tools to automate parts of the porting pipeline
+
+</div>
 
 <div align="center">
 
