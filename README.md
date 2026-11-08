@@ -26,7 +26,7 @@ Tooling: scripts and internal tools to automate parts of the porting pipeline
 
 <div align="center">
 
-## Tech Stack
+## Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
