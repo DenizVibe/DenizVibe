@@ -2,7 +2,7 @@
 
 ### Game Porting Developer. C#, C++, and Python.
 
-Porting games to PC. Working across engine internals, input systems, rendering compatibility, and tooling. Also into reverse engineering and building mods.
+Porting games to PC. Working across engine internals, input systems, rendering compatibility, and tooling. Also into reverse engineering and developing mods.
 
 </div>
 
