@@ -1,8 +1,8 @@
 <div align="center">
 
-### Game Porting Developer. C# and Python.
+### Game Porting Developer. C#, C++, and Python.
 
-Porting games to PC. Working across engine internals, input systems, rendering compatibility, and tooling.
+Porting games to PC. Working across engine internals, input systems, rendering compatibility, and tooling. Also into reverse engineering and building mods.
 
 </div>
 
@@ -16,6 +16,10 @@ API compatibility: bridging platform-specific input, audio, and graphics APIs to
 <br>
 Performance tuning: profiling and optimizing ported builds for PC hardware
 <br>
+Reverse engineering: digging into compiled binaries and game internals to understand how they work
+<br>
+Modding: building mods and mod menus on top of existing games
+<br>
 Tooling: scripts and internal tools to automate parts of the porting pipeline
 
 </div>
@@ -25,6 +29,7 @@ Tooling: scripts and internal tools to automate parts of the porting pipeline
 ## Tech Stack
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
